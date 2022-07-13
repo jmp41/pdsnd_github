@@ -175,4 +175,6 @@ def main():
 
 
 if __name__ == "__main__":
+	print('start analyzing bikeshare data') #change 1
 	main()
+
