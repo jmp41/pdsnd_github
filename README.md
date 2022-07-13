@@ -9,7 +9,7 @@ washington.csv
 pdsnd_github
 
 ### Description
-Using numpy and pandas to analyse bike data. Modified README.md and switch to different branch 3 times. Add more information.
+Using numpy and pandas to analyse bike data. Modified README.md and switch to different branch 3 times. Add more information. Modified README.md many times.
 
 ### Files used
 bikeshare_2.py
