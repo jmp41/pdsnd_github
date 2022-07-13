@@ -9,11 +9,14 @@ washington.csv
 pdsnd_github
 
 ### Description
-Using numpy and pandas to analyse bike data
+Using numpy and pandas to analyse bike data. Modified README.md and switch to different branch 3 times.
 
 ### Files used
 bikeshare_2.py
 README.md
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 Udacity Python course
