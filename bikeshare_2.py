@@ -177,4 +177,7 @@ def main():
 
 
 if __name__ == "__main__":
+	# Analyze bikeshare data change 3
+	print('start analyzing bikeshare data') #change 1
 	main()
+	print('finish analyzing bikeshare data') #change 2
